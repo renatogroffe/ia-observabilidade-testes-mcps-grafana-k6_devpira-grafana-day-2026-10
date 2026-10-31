@@ -5,3 +5,5 @@ Exemplos utilizados:
 - Aplicação utilizada como base para os testes de carga: https://github.com/renatogroffe/grafana-mcpserver-uvx-vscode-agents_apicontagem
 - Testes de carga utilizados na geração de telemetria: https://github.com/renatogroffe/grafana-mcpserver-uvx-vscode-agents_apicontagem
 - Configurações para uso do Azure Managed Grafana: https://github.com/renatogroffe/azuremanagedgrafana-mcpserver-vscode-agents-githubcopilot
+
+Aprenda mais sobre Grafana, OpenTelemetry, Prometheus e outras tecnologias de Observabilidade em: https://grafana.com/docs/learning-hub/
